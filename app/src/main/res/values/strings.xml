@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">my Applictication</string>
+    <string name="hallo">bagaimana kabar anda hari ini</string>
+    <string name="apakabar">boleh 50</string>
+    <string name="button_label_toast">done bang</string>
+    <string name="button_label_hitung">i dont care</string>
+    <string name="hitung_initial_value">ytber bang</string>
+    <string name="toast_pesan">hebar bro!q</string>
+</resources>
